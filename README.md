@@ -1,6 +1,6 @@
 # POPCORN-TIME
 
-### Link - [Popcorn-Time](https://github.com/facebook/create-react-app)
+### Link - [Popcorn-Time](https://60d760a0004d5448c6b7c1c3--nostalgic-pike-11dfb1.netlify.app/)
 
 ### HOW TO RUN?
 
@@ -8,7 +8,7 @@
     - yarn install
     - make .env file and add key there
     - https://www.themoviedb.org/settings/api/sessions
-    - REACT_APP_API_KEY = 'cc5e5759d318dd7f57006ffe0f261a86'
+    - REACT_APP_API_KEY = ''
 
 ### Technology Used
 
