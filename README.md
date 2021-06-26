@@ -7,6 +7,9 @@
     - Reactjs
     - Css
     - styled-components
+    - axios
+    - react-router-dom
+    - react-icons
 
 ## Features
 
@@ -24,9 +27,11 @@
                     - Logo
                     - SearchBar
                     - Favorites Page
+                    - Profile
+
                 - Homepage
                     - Banner
-                    - Movies
+                    - Row Wise Movies
 
                 - Favorites
                     - Searchbar Liked Movies
